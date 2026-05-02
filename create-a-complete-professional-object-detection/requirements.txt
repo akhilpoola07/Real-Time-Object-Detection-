@@ -1,0 +1,9 @@
+flask>=3.0.3,<4.0
+ultralytics>=8.3.40
+opencv-python>=4.10.0.84
+numpy>=1.26.4
+pandas>=2.2.3
+werkzeug>=3.0.6
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu

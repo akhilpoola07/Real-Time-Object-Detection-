@@ -1,0 +1,5 @@
+timestamp,source,file_name,total_objects,class_counts,output_file
+2026-04-26 10:25:45,webcam,live_camera,1,"{""person"": 1}",webcam_session
+2026-04-26 10:26:15,image,IMG_20241010_144108.jpg,1,"{""person"": 1}",detected_IMG_20241010_144108_20260426_102615_9fcd748b.jpg
+2026-04-26 10:42:20,webcam,live_camera,3,"{""person"": 2, ""chair"": 1}",webcam_session
+2026-04-26 10:48:19,webcam,live_camera,3,"{""person"": 2, ""tv"": 1}",webcam_session
