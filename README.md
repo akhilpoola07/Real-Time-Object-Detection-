@@ -94,7 +94,7 @@ Real-Time-Object-Detection-yolov8/
 Use Python `3.10`, `3.11`, or `3.12` for the smoothest YOLOv8/PyTorch setup.
 
 ```bash
-git clone https://github.com/ranjithkumar077/Real-Time-Object-Detection-yolov8.git
+git clone https://github.com/akhilpoola07/Real-Time-Object-Detection-yolov8.git
 cd Real-Time-Object-Detection-yolov8
 python -m venv .venv
 .venv\Scripts\activate
@@ -166,6 +166,6 @@ This project detects objects from webcam, image, and video sources using YOLOv8.
 
 ## ⭐ Author
 
-**Ranjith Kumar**  
-GitHub: [ranjithkumar077](https://github.com/ranjithkumar077)
+**Akhil**  
+GitHub: [akhilpoola07](https://github.com/akhilpoola07)
 #
